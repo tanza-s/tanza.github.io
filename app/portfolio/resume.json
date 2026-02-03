@@ -1,0 +1,84 @@
+{
+  "personal": {
+    "name": "Tanza J. Solis",
+    "location": "SF Bay Area, CA",
+    "email": "tanzathecreator@gmail.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/tanzajsolis/",
+      "github": "https://github.com/tanza-s"
+    }
+  },
+  "summary": "Full-stack web developer with 7 years of experience building and maintaining production applications for higher education. Specialized in React and Django development with expertise in system architecture, performance optimization, and autonomous feature delivery. Track record of modernizing legacy systems and shipping high-impact projects independently.",
+  "experience": [
+    {
+      "title": "Web Application Developer",
+      "company": "California College of the Arts",
+      "team": "Portal Web Team",
+      "location": "San Francisco, CA",
+      "startDate": "Feb 2021",
+      "endDate": "Present",
+      "bullets": [
+        "Full-stack developer responsible for user-facing web infrastructure serving 2,000+ students, faculty, and staff",
+        "Architected and executed complete frontend refactoring of CCA Portal from legacy codebase to modern React architecture, improving performance and maintainability",
+        "Built and launched online Graduating Students Showcase using React, Django, and Elasticsearch—a full-stack search platform enabling remote senior exhibitions during the pandemic",
+        "Independently deliver features from concept to deployment across the entire stack with minimal technical oversight",
+        "Maintain production systems on Google Cloud Platform ensuring high availability and performance",
+        "Collaborate with project managers, designers, and stakeholders to translate complex requirements into technical solutions",
+        "Evaluate and integrate third-party services and APIs into the college's web ecosystem"
+      ]
+    },
+    {
+      "title": "Jr. Web Applications Developer",
+      "company": "California College of the Arts",
+      "team": "Portal Web Team",
+      "location": "San Francisco, CA",
+      "startDate": "Jan 2019",
+      "endDate": "Feb 2021",
+      "bullets": [
+        "Contributed to team initiatives developing technology solutions for college-wide digital infrastructure",
+        "Participated in product design and validation activities with cross-functional teams",
+        "Implemented frontend and middleware features using React and Django"
+      ]
+    },
+    {
+      "title": "Web Developer (Contract)",
+      "company": "Hack the Hood",
+      "team": null,
+      "location": "Oakland, CA",
+      "startDate": "Feb 2018",
+      "endDate": "May 2018",
+      "bullets": [
+        "Built websites for small business clients as part of nonprofit technical fellowship program",
+        "Developed responsive websites using Weebly and Squarespace for community businesses",
+        "Worked directly with clients to understand requirements and deliver solutions meeting their needs"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Web Development Immersive",
+      "institution": "General Assembly",
+      "year": "2018",
+      "details": "12-week intensive full-stack development bootcamp"
+    },
+    {
+      "degree": "B.A., Fine/Studio Arts",
+      "institution": "Stanford University",
+      "years": "2011-2015",
+      "details": "Matriculated with Interdisciplinary Honors in the Arts, Phi Beta Kappa"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "WCAG 2.0 Introduction to Web Accessibility",
+      "provider": "edX",
+      "year": "2020"
+    }
+  ],
+  "skills": {
+    "frontend": ["React", "JavaScript", "HTML/CSS", "Responsive Design"],
+    "backend": ["Django", "Python", "Wagtail CMS"],
+    "toolsAndPlatforms": ["Google Cloud Platform", "Elasticsearch", "Git", "REST APIs"],
+    "practices": ["Full-stack development", "System architecture", "Performance optimization", "Accessibility (WCAG 2.0)"]
+  }
+}
